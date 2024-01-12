@@ -41,8 +41,11 @@
 
 <a href="https://github.com/diegoalfonsoc18">
   <img src="https://github-readme-stats.vercel.app/api?username=diegoalfonsoc18&theme=outrun&show_icons=true&hide_border=false&count_private=true"/>
+  
+</a>
+<br>
+<a>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegoalfonsoc18&theme=outrun&show_icons=true&hide_border=false&layout=compact" />
-
 </a>
 </div>
 
