@@ -16,11 +16,10 @@
 
 Soy desarrollador y emprendedor con sede en Boyacá, Colombia. Construyo aplicaciones móviles y web enfocadas en resolver problemas reales del mercado latinoamericano. Actualmente combino mis estudios en el Politécnico con el desarrollo de productos digitales a través de mi empresa **Apple Shop Col S.A.S.**
 
-- 🔭 Trabajando en **Secopcol** — App de contratación pública colombiana (SECOP II)
+
 - 📱 Stack principal: **React Native · Expo · TypeScript · Supabase**
 - 🌐 También trabajo con **Next.js · Node.js · Express · MongoDB · MySQL**
-- 🏗️ Emprendedor en logística, tecnología y consultoría
-- 📍 Boyacá, Colombia
+
 
 ---
 
