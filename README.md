@@ -14,7 +14,7 @@
 
 ### Sobre mí
 
-Soy desarrollador y emprendedor con sede en Boyacá, Colombia. Construyo aplicaciones móviles y web enfocadas en resolver problemas reales del mercado latinoamericano. Actualmente combino mis estudios en el Politécnico con el desarrollo de productos digitales a través de mi empresa **Apple Shop Col S.A.S.**
+Soy desarrollador y emprendedor con sede en Boyacá, Colombia. Construyo aplicaciones móviles y web enfocadas en resolver problemas reales del mercado latinoamericano. Actualmente combino mis estudios en el Politécnico con el desarrollo de productos digitales.**
 
 
 - 📱 Stack principal: **React Native · Expo · TypeScript · Supabase**
