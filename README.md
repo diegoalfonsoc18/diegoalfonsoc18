@@ -2,28 +2,43 @@
 
 # Diego Alfonso Castillo
 
-**Entrepreneur · Full-Stack Developer · Colombia 🇨🇴**
+**AI-Augmented Developer · React & React Native · Colombia 🇨🇴**
+
+Combino fundamentos sólidos en desarrollo web y móvil con el uso estratégico de IA para construir software más rápido y mejor.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diego-alfonso-castillo/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/diegoalfonsoc18)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/DiegoAlfon85757)
 
 </div>
 
 ---
 
-### Sobre mí
+### About Me
 
-Soy desarrollador y emprendedor con sede en Boyacá, Colombia. Construyo aplicaciones móviles y web enfocadas en resolver problemas reales del mercado latinoamericano. Actualmente combino mis estudios en el Politécnico con el desarrollo de productos digitales.**
+I'm a developer and entrepreneur based in Colombia, building mobile and web apps for the Latin American market. I use AI tools (Claude, Copilot) as a productivity multiplier — not a crutch — always reviewing, debugging, and optimizing the code they generate.
 
-
-- 📱 Stack principal: **React Native · Expo · TypeScript · Supabase**
-- 🌐 También trabajo con **Next.js · Node.js · Express · MongoDB · MySQL**
-
+- 📱 Core stack: **React Native · Expo · TypeScript · Supabase**
+- 🌐 Also work with: **React · Next.js · Node.js · Express · MySQL · MongoDB**
+- 🤖 AI workflow: **Claude · GitHub Copilot · Cursor**
+- 🎓 Software Engineering student at Politécnico Grancolombiano
+- 🌎 Open to remote work
 
 ---
 
-### Stack Tecnológico
+### How I Use AI in Development
+
+```
+📝 Code Generation    →  Contextual prompting for components, hooks, and business logic
+🔍 Code Review        →  Evaluating AI output for logic, performance, and security
+🐛 Debugging          →  AI-assisted error analysis and solution exploration
+📄 Documentation      →  Generating and refining READMEs, docs, and test cases
+```
+
+> I build with AI. I ship with understanding.
+
+---
+
+### Tech Stack
 
 <div align="center">
 
@@ -35,11 +50,9 @@ Soy desarrollador y emprendedor con sede en Boyacá, Colombia. Construyo aplicac
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![Expo](https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 
-**Backend & Bases de Datos**
+**Backend & Databases**
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
@@ -47,7 +60,13 @@ Soy desarrollador y emprendedor con sede en Boyacá, Colombia. Construyo aplicac
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
-**Herramientas**
+**AI Tools**
+
+![Claude](https://img.shields.io/badge/Claude-191919?style=flat-square&logo=anthropic&logoColor=white)
+![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=flat-square&logo=githubcopilot&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor-000000?style=flat-square&logo=cursor&logoColor=white)
+
+**Tools**
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
@@ -58,13 +77,13 @@ Soy desarrollador y emprendedor con sede en Boyacá, Colombia. Construyo aplicac
 
 ---
 
-### Proyectos Destacados
+### Featured Projects
 
-| Proyecto | Descripción | Tech |
-|----------|------------|------|
-| [**Secopcol**](https://github.com/diegoalfonsoc18/secopcol) | App móvil para búsqueda y seguimiento de licitaciones públicas SECOP II en Colombia. Sincronización automática con datos.gov.co y notificaciones push. | React Native · Expo · Supabase · TypeScript |
-| **Korre** | App hiperlocal de mandados y entregas rápidas para municipios colombianos. | React Native · Expo |
-| **CashCo** | Sistema para casa de compraventa con pacto de retroventa bajo ley colombiana. | En desarrollo |
+| Project | Description | Stack |
+|---------|------------|-------|
+| **Financial Management App** | Mobile app for independent drivers to track income, expenses, and trips. Role-based access with RLS in PostgreSQL. | React Native · Expo · TypeScript · Supabase |
+| **Hyperlocal Delivery App** | Fast errands and delivery platform for Colombian municipalities. Separate flows for clients and drivers. | React Native · Expo · TypeScript · Supabase |
+| **Commercial Management System** | Web platform for transaction records, inventory control, and reporting. Adapted to Colombian regulations. | React · Node.js · MySQL · Tailwind CSS |
 
 ---
 
@@ -88,16 +107,8 @@ Soy desarrollador y emprendedor con sede en Boyacá, Colombia. Construyo aplicac
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=diegoalfonsoc18&theme=darkhub&no-frame=true&row=1&column=7&margin-h=15&margin-w=5" alt="Trophies" />
+*Building with AI. Shipping with understanding.* 🚀
 
-</div>
-
----
-
-<div align="center">
-
-*"Construyendo soluciones tecnológicas para el mercado latinoamericano."*
-
-![Profile Views](https://komarev.com/ghpvc/?username=diegoalfonsoc18&color=58a6ff&style=flat-square&label=Visitas+al+perfil)
+![Profile Views](https://komarev.com/ghpvc/?username=diegoalfonsoc18&color=58a6ff&style=flat-square&label=Profile+views)
 
 </div>
